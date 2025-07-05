@@ -69,3 +69,7 @@ Display: The decoded message is shown on a 16x2 LCD display.
 
 📄 License
 This project is open-source and available under the MIT License.
+
+
+https://github.com/user-attachments/assets/484744cf-5c9c-4955-a0f4-1372d174714e
+
