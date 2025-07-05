@@ -2,7 +2,9 @@
 
 Welcome to the Li-Fi (Light Fidelity) project — a next-gen wireless communication system that uses visible light instead of traditional radio waves to securely and efficiently transmit data. This project demonstrates a cost-effective, interference-free, and real-time data transmission solution using common components like a smartphone flashlight, an LDR sensor, Arduino Uno, and an LCD display.
 
-🚀 Project Highlights
+
+# 🚀 Project Highlights
+
 
 📲 Light-Based Data Transfer: Sends text messages using your smartphone’s flashlight.
 
@@ -16,7 +18,10 @@ Welcome to the Li-Fi (Light Fidelity) project — a next-gen wireless communicat
 
 🛡️ EMI-Free: Ideal for use in sensitive environments like hospitals, airplanes, and underwater.
 
-🧠 How It Works
+
+
+# 🧠 How It Works
+
 
 Encoding: A text message is converted into binary and transmitted as light pulses using a smartphone flashlight.
 
@@ -27,7 +32,9 @@ Processing: An Arduino Uno reads the LDR input, decodes the binary, and converts
 Display: The decoded message is shown on a 16x2 LCD display.
 
 
-🛠️ Hardware Requirements
+
+# 🛠️ Hardware Requirements
+
 
 🔦 Smartphone with flashlight
 
@@ -40,7 +47,9 @@ Display: The decoded message is shown on a 16x2 LCD display.
 🔌 Resistors, jumper wires, breadboard, USB cable
 
 
-🌍 Applications
+
+# 🌍 Applications
+
 
 🏥 Hospitals – No interference with medical equipment
 
@@ -51,7 +60,8 @@ Display: The decoded message is shown on a 16x2 LCD display.
 🏠 Smart Homes – Secure indoor device communication
 
 
-📸 Project Demo
+
+# 📸 Project Demo
 
 
 💬 Watch the message flash across the light and reappear on the LCD!
